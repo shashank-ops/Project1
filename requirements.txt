@@ -1,0 +1,5 @@
+django>=2.0
+pillow
+mysqlclient
+
+to know more go on http://shashankmpgi.xyz
